@@ -1,2 +1,2 @@
 # Bookbot
-- Vanilla Python backend project
+BookBot is my first project!
